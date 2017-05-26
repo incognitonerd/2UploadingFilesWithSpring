@@ -12,7 +12,7 @@ apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
 
 jar {
-    baseName = '2UploadingFilesWithSpring'
+    baseName = '7UploadingFilesWithSpring'
     version =  '0.1.0'
 }
 
